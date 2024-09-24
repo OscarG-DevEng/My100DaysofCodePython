@@ -1,2 +1,2 @@
-# My100DaysofCodePython
-Here, I showcase the exercises and projects I have completed in the course '100 Days of Code: The Complete Python Pro Bootcamp' by Dr. Angela Yu.
+# My 100 Days of Code Python
+Here, I showcase the exercises and projects I have completed in the course '100 Days of Code: The Complete Python Pro Bootcamp' by Dr. Angela Yu on Udemy. This directory will be divided by days, as it is in the course. I am taking this course to learn the Python programming language, which will be useful for future projects.
